@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @betulboylu
-- 👀 I’m interested in C#, .Net Core, JS and Python projects, back-end and front-end applications, microservices
-- 🌱 I’m currently learning Cloud
-- 💞️ I’m looking to collaborate on full time projects
+- 👀 I develop C#, ASP.NET, .Net Core, JavaScript and Python projects, back-end and front-end applications, microservices
+- 🌱 I’m looking to collaborate on full time projects
 - 📫 How to reach me betulboylu@yahoo.com
 
 <!---
