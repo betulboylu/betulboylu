@@ -1,7 +1,7 @@
  <h1>👋  Hi, I’m Betul Boylu</h1>
  <h3>I am a Senior Software Engineer</h3>
 
-  - 🌱 I am currently working on a .NET Core Project and ML.NET.
+  - 🌱 I am currently working on a .NET Core and ML.NET Project.
   - 👀 I develop C#, ASP.NET, .Net Core, JavaScript and Python projects, back-end and front-end applications, microservices
   - 🌱 I’m looking to collaborate on full time projects
   - ⚡  Fun fact: I ❤️ photography, cooking, books and travel 
