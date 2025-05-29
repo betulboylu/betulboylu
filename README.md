@@ -1,11 +1,10 @@
  <h1>👋  Hi, I’m Betul Boylu</h1>
  <h3>I am a Senior Software Engineer</h3>
 
-  - 🔭 I am currently working on a .NET Core Project and Python Bot.
-  - 🌱 I am currently learning AI.
+  - 🌱 I am currently working on a .NET Core Project and ML.NET.
   - 👀 I develop C#, ASP.NET, .Net Core, JavaScript and Python projects, back-end and front-end applications, microservices
   - 🌱 I’m looking to collaborate on full time projects
-  - ⚡  Fun fact: I ❤️ photography, books and travel 
+  - ⚡  Fun fact: I ❤️ photography, cooking, books and travel 
   - 📫 How to reach me betulboylu@yahoo.com
 
 <h3>Languages, Software Concepts and Tools I Use</h3>
