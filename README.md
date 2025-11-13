@@ -10,11 +10,11 @@ With over 10 years of experience in software engineering, I specialize in creati
 ✅ RESTful APIs & Microservices  
 ✅ SQL Server, Oracle, PostgreSQL  
 ✅ Frontend: Jquery, Angular, React, Blazor (if needed)  
-✅ CI/CD, Docker, Azure & AWS, IIS
+✅ CI/CD, Git, Docker, Azure & AWS, IIS
 
 ---
 
-💡 **What I Can Do For You:**
+💡 **What I Can Do For You:** 
 
 - Build custom applications from scratch  
 - Modernize or refactor legacy .NET or Python codebases  
@@ -26,14 +26,15 @@ With over 10 years of experience in software engineering, I specialize in creati
 
 🧩 **Why Work With Me?**
 
-- Clear communication & quick response time  
+- Fluent English, clear communication & quick response time  
 - Business-oriented thinking: I don’t just write code, I solve problems  
 - Experience with enterprise clients, startups, and solo founders  
 - 100% commitment to deadlines and project goals
+- I work independently and also collaborate smoothly with teams
 
 Let's talk about how I can help you succeed with your next project.
 
-📩 Send me a message — I usually reply within a few hours. 📩 betulboylu@yahoo.com
+📩 Send me a message — I usually reply within a few hours. 📝 betulboylu@yahoo.com
 
 <!---
 betulboylu/betulboylu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
