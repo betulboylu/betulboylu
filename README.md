@@ -1,22 +1,39 @@
- <h1>👋  Hi, I’m Betul Boylu</h1>
- <h3>I am a Senior Software Engineer</h3>
+ <h1>👋 Hello, I am Betul Boylu </h1>
+ <h3>🚀 Senior Full-Stack Developer   |   .NET Core & Python   |   10+ Years of Experience</h3>
 
-  - 🌱 I am currently working on a .NET Core and ML.NET Project.
-  - 👀 I develop C#, ASP.NET, .Net Core, JavaScript and Python projects, back-end and front-end applications, microservices
-  - 🌱 I’m looking to collaborate on full time projects
-  - ⚡  Fun fact: I ❤️ photography, cooking, books and travel 
-  - 📫 How to reach me betulboylu@yahoo.com
+Are you looking for a reliable, senior-level developer to build or modernize your application, automate your business processes, or develop scalable APIs?
 
-<h3>Languages, Software Concepts and Tools I Use</h3>
+With over 10 years of experience in software engineering, I specialize in creating robust, secure, and high-performance applications using:
 
-- .NET Core, C#, ASP.NET, Entity Framework, LINQ
-- JavaScript, Jquery, TypeScript
-- Python
-- CSHTML, CSS, Bootstrap, 
-- MS Sql Server, Oracle, Dapper, ORM
-- SOLID, SDLC, Design Patterns, Achitectural Patterns, ML
-- Azure, AWS, IIS
+✅ .NET Core / ASP.NET  
+✅ Python (Django, FastAPI, Flask)  
+✅ RESTful APIs & Microservices  
+✅ SQL Server, Oracle, PostgreSQL  
+✅ Frontend: Jquery, Angular, React, Blazor (if needed)  
+✅ CI/CD, Docker, Azure & AWS, IIS
 
+---
+
+💡 **What I Can Do For You:**
+
+- Build custom applications from scratch  
+- Modernize or refactor legacy .NET or Python codebases  
+- Automate reports, data pipelines, or backend processes  
+- Integrate third-party services  
+- Deliver clean, well-tested code — fast
+
+---
+
+🧩 **Why Work With Me?**
+
+- Clear communication & quick response time  
+- Business-oriented thinking: I don’t just write code, I solve problems  
+- Experience with enterprise clients, startups, and solo founders  
+- 100% commitment to deadlines and project goals
+
+Let's talk about how I can help you succeed with your next project.
+
+📩 Send me a message — I usually reply within a few hours. 📩 betulboylu@yahoo.com
 
 <!---
 betulboylu/betulboylu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
